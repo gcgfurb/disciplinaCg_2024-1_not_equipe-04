@@ -2,7 +2,7 @@
 
 Para desenvolver as atividades da disciplina de Computação Gráfica favor utilizar as respectivas pastas para postar os trabalhos de cada unidade.  
 
-Alunos: Pedro Gabriel Appel - Rodrigo Kapulka Franco  
+Alunos: Pedro Gabriel Appel - Rubens Mette Junior
 
 ## [Atividades da Unidade 1](Unidade1/ "Atividades da Unidade 1")
 
